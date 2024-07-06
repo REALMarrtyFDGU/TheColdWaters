@@ -7,4 +7,9 @@ h2 {
 }
 h3 {
    font-family: Handdrawn
-},
+}
+body {
+  background-image: url('images/water.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
