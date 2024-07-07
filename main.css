@@ -1,17 +1,15 @@
 @font-face { font-family: Handdrawn; src: url('fonts/HanddrawnRegular.ttf'); } 
 h1 {
-   font-family: Handdrawn;
    font-size: 75px;
 }
 h2 {
-   font-family: Handdrawn;
    font-size: 55px;
 }
 h3 {
-   font-family: Handdrawn;
    font-size: 25px;
 }
 body {
+  font-family: Handdrawn;
   background-image: url('images/water.png');
   background-repeat: no-repeat;
   background-attachment: fixed;
