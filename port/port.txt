@@ -1,3 +1,3 @@
 Port: Github
-Port-ID: Git-11
-Version-ID: 1.1
+Port-ID: Git-B12
+Version-ID: Beta 1.2
